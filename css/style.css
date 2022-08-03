@@ -1,0 +1,98 @@
+body {
+    margin: 20px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cabecalho {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    
+}
+
+.img {
+    width: 90px;
+    color: #D3D3D3; 
+}
+
+
+.menu {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    cursor: pointer;
+}
+
+.titulo {
+    font-family: arial;
+    color: white;
+    text-align: center;
+    color: #D3D3D3;
+
+}
+
+.have {
+    padding-bottom: 8px;
+    text-align: center;
+    color: #A9A9A9;
+
+}
+
+.input {
+    width: 310px;
+    height: 22px;
+    margin-top: 7px;
+    background-color: gray;
+    border-radius: 15px;
+    border-style: none;
+}
+
+.btn {
+    width: 125px;
+    height: 25px;
+    background-color: #7B68EE;
+    border-radius: 15px;
+    border-style: none;
+    color: #D3D3D3;
+    font-family: arial;
+    cursor: pointer;
+}
+
+.bta {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.ask {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.btnn {
+    width: 230px;
+    height: 25px;
+    font-family: arial;
+    background-color: #7B68EE;
+    border-radius: 15px;
+    border-style: none;
+    color: #D3D3D3;
+    cursor: pointer;
+}
+
+.btb {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+p {
+    color: #A9A9A9;
+}
+
+
